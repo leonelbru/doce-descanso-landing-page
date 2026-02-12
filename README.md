@@ -1,4 +1,4 @@
-# 💤 Doce Descanso – Landing Page
+# Doce Descanso – Landing Page
 
 ## Sobre o Projeto
 
@@ -34,7 +34,7 @@ A landing page foi criada como ponto central de apresentação da marca, organiz
 
 ---
 
-## 🔗 Projeto Publicado
+## Projeto Publicado
 
 👉 https://docedescansopijamas.my.canva.site/
 
