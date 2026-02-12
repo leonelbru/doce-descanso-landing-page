@@ -40,8 +40,8 @@ A landing page foi criada como ponto central de apresentação da marca, organiz
 
 ## Preview
 
-👉 ![Preview do site](./assets/icon-url-preview.png)
-👉 ![Preview do site](./assets/preview-site.png)
+![Preview do site](./assets/icon-url-preview.png)
+![Preview do site](./assets/preview-site.png)
 
 ---
 
